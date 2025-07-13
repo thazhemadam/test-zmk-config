@@ -12,7 +12,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
+      revision: main
     - name: zmk-bastardkb-dilemma
       remote: taz
+      revision: main
   self:
     path: config
