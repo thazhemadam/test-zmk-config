@@ -20,4 +20,5 @@
 ---
 include:
 - board: "dilemma_right"
+  snippet: zmk-usb-logging
 - board: "dilemma_left"
