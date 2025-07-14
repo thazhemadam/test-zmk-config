@@ -15,6 +15,6 @@ manifest:
       revision: main
     - name: zmk-bastardkb-dilemma
       remote: taz
-      revision: zmk-build
+      revision: zmk-main
   self:
     path: config
